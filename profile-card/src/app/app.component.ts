@@ -4,10 +4,12 @@ import { RouterOutlet } from '@angular/router';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'profile-card';
+  name : string = 'Stefan Borcia';
+  age : number = 30;
+  description: string = 'A passionate developer learning Angular';
 }
