@@ -9,14 +9,5 @@ import {CounterComponent} from './counter/counter.component'
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  counter: number = 5;
-
-  increment(){
-    this.counter++;
-  }
-
-  decrement(){
-    this.counter--;
-  }
 
 }
