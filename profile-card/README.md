@@ -1,4 +1,5 @@
 # ProfileCard
+![image](https://github.com/user-attachments/assets/21f77d98-abf0-4f70-a83b-a637a183f53e)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.16.
 
